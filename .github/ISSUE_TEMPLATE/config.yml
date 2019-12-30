@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚Documentation
+    url: http://docs.php-http.org
+    about: Check the documentation before opening an issue.
+
+  - name: 📫Slack
+    url: http://slack.httplug.io
+    about: Talk to us on Slack.
